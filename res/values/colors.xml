@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="listview_bg">#FFDDDDDD</color>
+    <color name="listitem_bg">#FFFFFFFF</color>
+    <color name="listitemdivider_bg">#FFAAAAAA</color>
+    
+    <color name="dialogheader_bg">#FF555555</color>
+    <color name="dialogheader_fg">#FFFFFFFF</color>
+    
+</resources>
